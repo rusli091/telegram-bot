@@ -19,7 +19,7 @@
 
 If you find some bugs please contact the WhatsApp number on Contact
 
-- [WHATSAPP](https://wa.me/6285939888897)
+- [WHATSAPP](https://wa.me/6282233766083)
 
 ### Bot V1
 - [BotV1](https://github.com/adimas999/BotV1)
